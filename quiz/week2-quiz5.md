@@ -66,7 +66,6 @@ How would you vectorize this code to run without any for loops? Check all that a
  
 * v = Ax;
 
-
 ---
 
 ## Question 4
